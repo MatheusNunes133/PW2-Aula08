@@ -1,0 +1,1 @@
+export type ComidaDePet = "insetos" | "frutas" | "plantas" | "sementes" | "vegetais"

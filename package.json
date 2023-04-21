@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
